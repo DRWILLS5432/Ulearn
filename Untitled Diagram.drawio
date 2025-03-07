@@ -186,7 +186,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vwv35XwsbbJxemUSiFgT" name="Page-7">
-    <mxGraphModel dx="4869" dy="1294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3618" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,11 +255,6 @@
         <mxCell id="5tKqcXdtyTbO7BPtoFJR-68" value="&lt;span style=&quot;white-space: normal; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;O:I Подтверждённая запись&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5tKqcXdtyTbO7BPtoFJR-33" vertex="1" connectable="0">
           <mxGeometry x="-0.3178" y="6" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S1ghVrmy_w9VhKIm-j1V-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5tKqcXdtyTbO7BPtoFJR-33">
-          <mxGeometry x="0.2519" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5tKqcXdtyTbO7BPtoFJR-37" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitX=0.212;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="GJaYcMz3nNwiA91huFqT-41" source="GJaYcMz3nNwiA91huFqT-5" edge="1">
